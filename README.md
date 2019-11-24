@@ -1,2 +1,4 @@
 # hello-world
-10 minute Hello World GitHub Tutorial
+
+Hi everyone! My name is Ben and I am learning to use GitHub.
+I am relatively new to programming and excited to learn!
